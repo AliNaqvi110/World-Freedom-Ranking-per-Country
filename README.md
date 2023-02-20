@@ -4,6 +4,7 @@ World Freedom Ranking per Country Analysis in Power BI
 <h3>Data</h3> 
 <a href="https://www.kaggle.com/datasets/justin2028/freedom-in-the-world-2013-2022">Freedom Rankings Per Country (2013-2022)</a>
 <br>
+<br>
 Dark Background
 <img src="https://github.com/AliNaqvi110/World-Freedom-Ranking-per-Country/blob/main/Freedom_Data_Analysis_Dark_Mode.PNG">
 Light Background
